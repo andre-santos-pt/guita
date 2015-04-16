@@ -9,6 +9,6 @@ special keystroke and instantly navigate to the corresponding lines in code edit
 This work was developed in the context of a research work, described in the following paper:
 
 *GUI code tracing through direct program interaction*<br>
-Journal of Software: Evolution and Process<br>
+Journal of Software: Evolution and Process (Volume 26, Issue 6, pages 552–568, June 2014)<br>
 André L. Santos<br>
 http://dx.doi.org/10.1002/smr.1650
